@@ -1,4 +1,4 @@
 # susmita_patra
 This is my first Git Repository.
 <br/>
-Author - Susmita Patra
+Author - Susmita(bndm)
